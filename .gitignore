@@ -1,0 +1,29 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment directories
+env/
+venv/
+
+# Ignore Python distribution directories
+dist/
+build/
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive data files (e.g., config with passwords)
+config.json
+credentials.json
