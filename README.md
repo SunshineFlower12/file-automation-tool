@@ -1,24 +1,15 @@
 # File Automation Tool
 
-A Python-based automation tool designed to perform various tasks, including:
-
-- **Web Scraping**: Automatically scrape content from websites.
-- **File Management**: Automate file organization by moving files between directories.
-- **Email Automation**: Send emails with attachments automatically.
-- **Scheduled Tasks**: Schedule tasks such as web scraping and file management to run at specified times.
+## Overview
+The **File Automation Tool** is a Python-based program that helps automate common tasks such as web scraping, file management, email sending, and scheduling tasks. It's designed to save time and improve efficiency for users performing repetitive tasks.
 
 ## Features
+- **Web Scraping**: Automates the process of scraping data from websites.
+- **File Management**: Move, organize, or back up files across directories.
+- **Send Emails**: Automates the sending of emails with attachments.
+- **Schedule Tasks**: Set up scheduled automation for different tasks.
 
-- **Web Scraping**: Scrape data from websites and save it to a local file.
-- **File Management**: Move files from one directory to another.
-- **Send Emails**: Send emails with customizable content, subject, and attachments.
-- **Scheduling**: Schedule tasks to run at a specific time, such as scraping or file management tasks.
-
-## Requirements
-
-Before using the tool, make sure you have Python 3.6+ installed. You will also need to install the required Python libraries.
-
-You can install the required libraries using the following:
-
-```bash
-pip install -r requirements.txt
+## Installation
+1. Clone this repository using the following command:
+   ```bash
+   git clone https://github.com/yourusername/file-automation-tool.git
