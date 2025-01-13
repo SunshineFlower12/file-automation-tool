@@ -12,4 +12,4 @@ The **File Automation Tool** is a Python-based program that helps automate commo
 ## Installation
 1. Clone this repository using the following command:
    ```bash
-   git clone https://github.com/yourusername/file-automation-tool.git
+   git clone https://github.com/SunshineFlower12/file-automation-tool.git
